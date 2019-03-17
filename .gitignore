@@ -1,0 +1,4 @@
+# bsp build files
+*.log
+*.prt
+*.bsp
